@@ -1,4 +1,5 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![Created using Flutter and Dart](![image](https://user-images.githubusercontent.com/69623904/165602897-c71228c4-e392-4a3a-88d3-454b451135d1.png)
+)
 
 
 # Quizzler ❓
@@ -14,7 +15,7 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
 
-## What you will learn
+## What I learned
 
 - Modularising your code into separate classes.
 - Dart classes and objects.
@@ -54,9 +55,3 @@ Question('Some cats are actually allergic to humans', true),
         true),
 
 ```
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
- Quizzler
