@@ -12,7 +12,7 @@ In this project I will be reviewing Stateful and Stateless Widgets as well as le
 
 I created a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores, enjoy!
 
-![Finished App](https://ibb.co/4RPxcVy)
+![Finished App](https://user-images.githubusercontent.com/69623904/165612934-37c3f9ed-f007-4157-9a67-bffb03750f5c.gif)
 
 ## What I learned
 
