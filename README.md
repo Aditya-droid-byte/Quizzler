@@ -1,5 +1,4 @@
 ![Created using Flutter and Dart](https://user-images.githubusercontent.com/69623904/165602897-c71228c4-e392-4a3a-88d3-454b451135d1.png)
-)
 
 
 # Quizzler ❓
