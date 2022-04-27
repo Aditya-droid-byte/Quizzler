@@ -1,4 +1,4 @@
-![Created using Flutter and Dart](![image](https://user-images.githubusercontent.com/69623904/165602897-c71228c4-e392-4a3a-88d3-454b451135d1.png)
+![Created using Flutter and Dart](https://user-images.githubusercontent.com/69623904/165602897-c71228c4-e392-4a3a-88d3-454b451135d1.png)
 )
 
 
@@ -9,7 +9,7 @@
 In this tutorial we will be reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
 
 
-## What you will create
+## What I created
 
 We’re going to make a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores, you can create your own quiz for other people to enjoy!
 
