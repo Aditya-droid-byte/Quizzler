@@ -14,7 +14,7 @@ I created a quiz app that tests your general knowledge. As one of the most popul
 
 ![Finished App](https://user-images.githubusercontent.com/69623904/165612934-37c3f9ed-f007-4157-9a67-bffb03750f5c.gif)
 
-## Something new learned!
+## Learned something new!
 
 - Modularising your code into separate classes.
 - Dart classes and objects.
